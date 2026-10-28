@@ -1,2 +1,2 @@
 # amharic_flashcards
-smart_Go a public transportation platform for mobile app development
+amharic flashcards for flutter mobile application development course 
